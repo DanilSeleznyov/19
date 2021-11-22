@@ -1,0 +1,14 @@
+.uk-flex-none{
+    flex: none !important;
+   
+}
+.uk-card-title> small{
+    font-size: 50%;
+}
+.user-group> li{
+    display: inline;
+}
+.user-group>li>image{
+    border-radius: 5px;
+    
+}
